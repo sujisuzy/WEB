@@ -74,3 +74,4 @@ url http 아니면 형식에 맞지않음
 해드 배디 전체 저장하고
 스타일css 스타일 html 만들어서 불러오기
  <link rel="stylesheet" href="./style.css">
+ ./style.css 같은 폴더내 불러오기 가능 절대경로
